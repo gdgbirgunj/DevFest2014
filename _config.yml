@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -44,16 +44,16 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "September - November, 2014"
 typeoutTextValues: '"", "Season", "Melbourne", "Florida", "USA"'
 heroButtons:
- - {url: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {url: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
@@ -151,11 +151,11 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "devfestspacecoast"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 thumbnailsFolder: /img/speakers/
 
 # Team Block
@@ -180,21 +180,13 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.ihg.com/crowneplaza/hotels/us/en/melbourne/mlboc/hoteldetail?cm_mmc=GoogleMaps-_-cp-_-USEN-_-mlboc", text: "Crowne Plaza Melbourne-Oceanfront"}
+     - {link: "http://www.doubletreemelbournebeach.com/", text: "DoubleTree Suites by Hilton Melbourne Beach Oceanfront"}
+     - {link: "http://www3.hilton.com/en/hotels/florida/hilton-melbourne-rialto-place-MLBMHHF/index.html", text: "Hilton Melbourne Rialto Place"}
+     - {link: "http://www.marriott.com/hotels/travel/mlbap-residence-inn-melbourne/", text: "Residence Inn Melbourne"}
    - 
-    title: "Registration"
+    title: "Travel"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.mlbair.com/", text: "Melbourne International Airport"}
+     - {link: "http://www.orlandoairports.net/", text: "Orlando International Airport"}
+     - {link: "http://www.orlandosanfordairport.com/", text: "Orlando Sanford International Airport"}
