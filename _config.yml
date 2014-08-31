@@ -5,7 +5,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Season 2014"
+title: "Android DevFest Season 2014"
 email: "organizer@gdgspacecoast.org"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
@@ -23,10 +23,10 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgspacecoast.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Space Coast"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, developers, Space Coast"
+#twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+#socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
@@ -49,34 +49,32 @@ rightNavigationButtons:
  - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # Hero Block
-heroTitle: "GDG DevFest <typeout> 2014"
-eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Season", "Melbourne", "Florida", "USA"'
+heroTitle: "Android DevFest <typeout> 2014"
+eventDate: "October 18th, 2014"
+typeoutTextValues: '"", "Melbourne", "Florida Tech"'
 heroButtons:
  - {url: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Android DevFest"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg",
-    text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
- - {title: "Workshops", image: "workshop.jpg",
-    text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg",
-    text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
+ - {title: "Tech Talks", image: "conference.jpg",
+    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google Glass, and Android Studio." }
+ - {title: "Design Sprint", image: "workshop.jpg",
+    text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
 
 # Statistic Block
 statisticBlock:
- - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "110", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
+ - {count: "3", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
+ - {count: "4", specialCharacter: "+", info: "hours", detail: "of collaboration, brainstorming, and innovation"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
@@ -98,7 +96,7 @@ mapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "Kinopalace Cinema"
+venueTitle: "Olin Building"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
@@ -114,7 +112,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open in early September. Number of tickets are limited. Stay tuned!"
 
 # Buy Tickets Block
 buyTicketsTitle: "Pricetable"
@@ -131,7 +129,6 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
  - {link: "https://facebook.com/GDGSpace Coast", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -160,7 +157,18 @@ thumbnailsFolder: /img/speakers/
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Google Developer Group (GDG) Space Coast is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
+<br/><br/>
+Here are a few of the topics that we have covered so far:<br/>
+Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Dart, AngularJS, Cloud Endpoints, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
+<br/><br/>
+In addition to regular speaker focused meetings, we also organize code camps, hackathons, and assist with the local TrepHub and Startup Weekend events.
+<br/><br/>
+The group is free to attend and open to all who are interested in discussing and learning more about software development with Google Tools and Technologies.
+<br/><br/>
+If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Space Coast community linked from our About page on Google+.
+<br/><br/>
+Disclaimer: GDG Space Coast is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -168,14 +176,14 @@ logisticsMapCenterCoordinates: "28.064459,-80.622979"
 logisticsMapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Logistics Direction Details Block
-directionDetailsTitle: "Get around Space Coast"
+directionDetailsTitle: "Get around the Space Coast"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Space Coast. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Space Coast.'}
- - {title: "Hotels", information: 'Space Coast has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The Melbourne International Airport is just a 10 minute drive (2.5 miles to the south) from Florida Tech. If you need to use the Orlando Airport, then the drive will be 1 hour.'}
+ - {title: "Public Transit", information: 'Public transportation in Melbourne is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
+ - {title: "Hotels", information: 'Melbourne has many good hotels. There are beachfront hotels with a view or hotels close to the airport for your convenience. See below for more details.'}
 directionDetailsWideCards: 
  -
-  title: "Questions?"
+  title: "Details"
   subCards:
    -
     title: "Hotels"
