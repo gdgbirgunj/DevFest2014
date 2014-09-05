@@ -1,8 +1,13 @@
+### Idea ###
+.idea
+
 ### Jekyll ###
 _site/
 
 ### Sass ###
 .sass-cache
 
-### Other ###
-.idea
+### Windows ###
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
