@@ -1,30 +1,14 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2014-07-21 08:00:00
+date:   2014-09-08 10:00:00
 isStaticPost: false
 ---
 
-We're very excited - not just because of the inordinate amount of caffeine based products consumed - 
-but also because our team are putting together 
-the final missing parts to the biggest Google related event in Ukraine - [GDG DevFest 2014](http://devfest.gdg.org.ua/). 
+DevFest is coming to Brevard County and the Space Coast! The event is scheduled for October 18th, 2014.
 
-This year event will take place in cultural capital of Ukraine - Lviv. Being a unique European city in Ukraine, Lviv is among top 10 cities of the world to visit in 2014 according to the travel group “The Rough Guide” and is among top 10 cities for spending weekends in Europe according to Lonely Planet. So take your time to spend weeked in last hidden gem in the Europe in company of experts and technical geeks.
+We are in the process of bringing the website online now. Once that is done, we will setup registration for the event.
+We have confirmed the venue at Florida Tech. We also have a [call for speakers form here](https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form) if you are interested in presenting at the event.
 
-So should you also be excited? Well yes... and here's why!
-
-* **Attendance**: we're expecting over 350 attendees
-* **Topic**: more than 48 hours of pure Google technologies 
-* **Date**: 24-25 of October, expect hackathon and workshops on a first day and conference on the second
-* **Venue**: Kinopalace Cinema - for a first time we'll make technical event in real cinema directly in the heart of the ancient city of Lviv
-* **Speakers**: we're in the process of finalising the list of speakers
-
-but we've already secured a first batch of experts:
-
-* **Dawid Ostrowski** - Developer Relation from Google, who excited about cloud technologies<br>
-* **Mateusz Herych** - Android GDE and GDG organizer from Krakow<br>
-* **Dmytro Danylyk** - developer, blogger, speaker, author of open source 1000+ star libraries <br>
-* **Roman Mazur** - speaker on various international conferences like Droidcon Eastern Europe and Ankara Developer Days<br>
-
-
-More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on [Facebook](https://facebook.com/GDGLviv), follow on [Twitter](https://twitter.com/intent/user?screen_name=GDGLviv), add to circles in [Google+](https://plus.google.com/b/102444623953913144164) or subcribe to our [mailing list](http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&id=ae0fb459fc) and [RSS feed](http://devfest.gdg.org.ua/feed.xml) in order not to miss any cool stuff about festival.
+More details about speakers, registration for Android DevFest, and the venue at FIT will appear in subsequent posts. 
+You can follow us on [Google+](https://plus.google.com/+GDGSpaceCoastOrg), like us on [Facebook](https://www.facebook.com/gdgspacecoast), follow on [Twitter](https://twitter.com/intent/user?screen_name=gdgspacecoast), or subscribe to our [RSS feed](http://gdg-space-coast.github.io/zeppelin/feed.xml) in order not to miss any updates about this event.
