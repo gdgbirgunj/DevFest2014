@@ -77,11 +77,11 @@ statisticBlock:
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
+# Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 3
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle: "Speakers TBA..."
+rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
@@ -92,8 +92,8 @@ eventAddressLocality: "Melbourne"
 eventAddressLocalityRegion: "Florida"
 eventPostalCode: "32901"
 eventAddressCountry: "USA"
-eventStartTime: "2014-10-04T10:00"
-eventDoorTime: "09:00"
+eventStartTime: "2014-10-04T11:00"
+eventDoorTime: "10:30"
 eventEndTime: "2014-10-04T20:00"
 eventPlaceCoordinates: "28.064459,-80.622979"
 mapCenterCoordinates: "28.064459,-80.622979"
@@ -101,12 +101,12 @@ mapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "Olin Building"
+venueTitle: "Olin Engineering Complex"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Huge cinema screen", "Dolby Digital Surround audio system", "Mobile device 'document' camera"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
