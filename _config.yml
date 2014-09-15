@@ -55,7 +55,7 @@ eventDate: "October 18th, 2014"
 typeoutTextValues: '"", "Melbourne", "Florida Tech"'
 typeoutFallback: "Space Coast"
 heroButtons:
- - {url: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
