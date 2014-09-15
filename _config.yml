@@ -24,7 +24,7 @@ organizerLink: "http://gdgspacecoast.org/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, developers, Space Coast"
-#twitterAccount: "@DevFest"
+twitterAccount: "@gdgspacecoast"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -105,7 +105,6 @@ venueTitle: "Olin Engineering Complex"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
 venueFeatures: ["Huge cinema screen", "Dolby Digital Surround audio system", "Mobile device 'document' camera"]
 
 # Tweets Feed Block
