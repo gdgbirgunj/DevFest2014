@@ -126,16 +126,18 @@ subscribeInfo: "Registration will be open in early September. Number of tickets 
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
 ticketsOffers:
  -
   name: "1 day"
-  price: "$10"
-  buyButtonLink: "http://gdgspacecoast.org/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Tickets are not on sale yet", "Please check back later", "TBA"]
-  validFrom: "2014-10-04T10:00"
-  validThrough: "2014-10-04T23:59"
+  price: "Free!"
+  ticketsNumber: "110"
+  ribbon: "-100%"
+  buyButtonLink: "http://gdgspacecoast.org"
+  buyButtonText: "RSVP Now"
+  ticketContentList: ["Advanced RSVP is required.", "Please check back later.", "Coming soon..."]
+  validFrom: "2014-10-18T09:00"
+  validThrough: "2014-10-18T23:59"
 
 # Footer
 socialLinks:
