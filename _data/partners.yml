@@ -1,16 +1,13 @@
 - 
   group: "General sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "google.svg"}
 - 
   group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-    - {name: "FIT Dept of Computer Science", description: "FIT Dept of Computer Science", link: "http://cs.fit.edu/", imageUrl: "gdg-x.svg", width: "120px"}
+  elements:
     - {name: "Florida Tech", description: "Florida Tech", link: "http://www.fit.edu/", imageUrl: "fit.jpg"}
-    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 - 
   group: "Information partners"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
+    - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
