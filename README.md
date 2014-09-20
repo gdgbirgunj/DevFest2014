@@ -109,10 +109,11 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * [GDG DevFest Omsk 2014](http://gdg-devfest-omsk.org/)
 * [GDG Bangalore Site](http://gdgbangalore.github.io/)
 * [2014 南阳 GDG Devfest 大会](http://devfest.gdgny.org)
-* [DevFest Nordeste 2014](http://devfestnordeste.github.io/devfest-2014/)
+* [DevFest Nordeste 2014](http://2014.devfestne.com.br/)
 * [GDG DevFest The Netherlands](http://www.devfest.nl/)
 * [DevFest Centro-Oeste 2014](http://www.devfestcentrooeste.com.br/)
 * [DevFest SP 2014](http://sp.devfest.com.br/)
+* [Android DevFest Space Coast](http://gdg-space-coast.github.io/zeppelin/)
 
 ### Contributors
 * Design and markup: [Oleh Zasadnyy](https://github.com/ozasadnyy)
