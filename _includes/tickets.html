@@ -2,7 +2,7 @@
 <section id="tickets" class="tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>{{ site.ticketsTitle }}</h3>
+			<h3>{{ site.ticketsInfoTitle }}</h3>
             {% for ticketsOffer in site.ticketsOffers %}
 	            {% assign colWidth = 12 | divided_by: forloop.length %}
 	            {% assign check = forloop.index | modulo:2 %}
@@ -18,7 +18,7 @@
 							<li>{{ listItem }}</li>
 							{% endfor %}
 						</ul>
-						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
+						<a class="btn-primary button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
 					</div>
 				</div>
             {% endfor %}
