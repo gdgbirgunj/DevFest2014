@@ -5,26 +5,26 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android DevFest Season 2014"
-email: "organizer@gdgspacecoast.org"
+title: "GDG Birgunj DevFest 2014"
+email: "dipesh009@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-space-coast.github.io"
+url: "http://gdgbirgunj.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-41029375-7"
-googleAnalyticsSiteUrl: "gdg-space-coast.github.io"
+googleAnalyticsSiteUrl: "gdgbirgunj.github.io"
 
 # Organizer Info
-organizerName: "GDG Space Coast"
-organizerAlternateName: "Google Developer Group Space Coast"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "organizer@gdgspacecoast.org"
+organizerName: "GDG Birgunj"
+organizerAlternateName: "Google Developer Group Birgunj"
+organizerDescription: "Open and volunteer geek community who shares experience about Google technology with passion."
+organizerEmail: "dipesh009@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgspacecoast.org/"
+organizerLink: "http://gdgbirgunj.blogspot.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, developers, Space Coast"
-twitterAccount: "@gdgspacecoast"
+metaKeywords: "event, gdg, devfest, google, programming, android, developers, Birgunj"
+twitterAccount: "@gdgbirgunj"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -50,19 +50,19 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Android DevFest <typeout> 2014"
-eventDate: "October 18th, 2014"
-typeoutTextValues: '"", "Melbourne", "Florida Tech"'
-typeoutFallback: "Space Coast"
+heroTitle: "GDG DevFest<typeout> 2014"
+eventDate: "November 22, 2014"
+typeoutTextValues: '"", "Birgunj", "Nepal"'
+typeoutFallback: "Birgunj"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
-aboutTitle: "About Android DevFest"
+aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg",
-    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google Glass, and Android Studio." }
+    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google API's, and Android Studio." }
  - {title: "Design Sprint", image: "workshop.jpg",
     text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
 
@@ -85,23 +85,23 @@ rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Florida Institute of Technology"
-eventLocationLink: "http://www.fit.edu/"
-eventStreetAddress: "150 W University Blvd"
-eventAddressLocality: "Melbourne"
-eventAddressLocalityRegion: "Florida"
-eventPostalCode: "32901"
-eventAddressCountry: "USA"
-eventStartTime: "2014-10-04T11:00"
-eventDoorTime: "10:30"
-eventEndTime: "2014-10-04T20:00"
+eventLocationName: "TBA"
+#eventLocationLink: "http://www.fit.edu/"
+#eventStreetAddress: "150 W University Blvd"
+#eventAddressLocality: "Melbourne"
+#eventAddressLocalityRegion: "Florida"
+#eventPostalCode: "32901"
+#eventAddressCountry: "USA"
+eventStartTime: "2014-11-22T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-11-22T18:00"
 eventPlaceCoordinates: "28.064459,-80.622979"
 mapCenterCoordinates: "28.064459,-80.622979"
 mapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "Olin Engineering Complex"
+#venueTitle: "Olin Engineering Complex"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
