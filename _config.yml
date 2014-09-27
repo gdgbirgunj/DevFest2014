@@ -5,107 +5,107 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG Birgunj DevFest 2014"
+title: "GDG DevFest, Birgunj 2014"
 email: "dipesh009@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/zeppelin"
+baseurl: "/DevFest2014"
 url: "http://gdgbirgunj.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-41029375-7"
+googleAnalyticsTrackingId: "UA-43643469-5"
 googleAnalyticsSiteUrl: "gdgbirgunj.github.io"
 
 # Organizer Info
 organizerName: "GDG Birgunj"
 organizerAlternateName: "Google Developer Group Birgunj"
-organizerDescription: "Open and volunteer geek community who shares experience about Google technology with passion."
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "dipesh009@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://gdgbirgunj.blogspot.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, developers, Birgunj"
-twitterAccount: "@gdgbirgunj"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Birgunj"
+twitterAccount: "@DevFest"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form"
-c4sponsorsUrl: "https://docs.google.com/forms/d/1H3lMjgsrccU1PXCzLKvSzGU6eBmrdZJ8B976tJmYfCk/viewform?usp=send_form"
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
- - {link: "https://developers.google.com", text: "Developers"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout> 2014"
-eventDate: "November 22, 2014"
-typeoutTextValues: '"", "Birgunj", "Nepal"'
-typeoutFallback: "Birgunj"
+heroTitle: "GDG DevFest<typeout>2014"
+eventDate: "September - November, 2014"
+typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Ticket Info"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About GDG DevFest"
 aboutBlock:
- - {title: "Tech Talks", image: "conference.jpg",
-    text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google API's, and Android Studio." }
- - {title: "Design Sprint", image: "workshop.jpg",
-    text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
+ - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lot's of fun!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day free-style hackaton! Want some real teambuilding on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "110", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
- - {count: "3", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
- - {count: "4", specialCharacter: "+", info: "hours", detail: "of collaboration, brainstorming, and innovation"}
- - {count: "3", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Speakers Block
+# Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Speakers TBA..."
-rockstarSpeakersButtonText: "Speaker Details"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Birgunj"
-#eventLocationLink: "http://www.fit.edu/"
-#eventStreetAddress: "150 W University Blvd"
-#eventAddressLocality: "Melbourne"
-#eventAddressLocalityRegion: "Florida"
-#eventPostalCode: "32901"
-eventAddressCountry: "Nepal"
-eventStartTime: "2014-11-22T09:00"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
 eventDoorTime: "09:00"
-eventEndTime: "2014-11-22T18:00"
-eventPlaceCoordinates: "27.014808, 84.878813"
-mapCenterCoordinates: "27.014808, 84.878813"
-mapMobileCenterCoordinates: "27.014808, 84.878813"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "TBA"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-#venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -122,42 +122,64 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open in early November. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsInfoTitle: "Ticket Information"
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
+ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "1 day"
-  price: "Registration will open after 31st of October!"
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "UAH"
   ticketsNumber: "150"
-  ribbon: "-100%"
-  buyButtonLink: "http://gdgbirgunj.blogspot.com/"
-  buyButtonText: "More Details"
-  ticketContentList: ["Registration is open!", "Limit: 150 attendees."]
-  validFrom: "2014-10-31T23:00"
-  validThrough: "2014-10-16T00:00"
+  ribbon: "-5%"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-25T10:00"
+  validThrough: "2014-09-30T23:59"
+ -
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
+  ticketsNumber: "100"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-10-01T00:00"
+  validThrough: "2014-10-23T23:59"
+  disabled: true
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/112807703637841959875", icon: "google-plus"}
- - {link: "https://twitter.com/gdgbirgunj", icon: "twitter"}
- - {link: "https://facebook.com/gdgbirgunj", icon: "facebook"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgbirgunj.blogspot.com", text: "GDG Birgunj"}
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "https://google.com/+DipeshKumar", text: "Dipesh Kumar"}
-   - {link: "mailto:dipesh009@gmail.com", text: "dipesh009@gmail.com"}
-
+   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:
@@ -165,27 +187,15 @@ footerBlocks:
 
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: false
-discusShortName: "devfestspacecoast"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: false
-thumbnailsFolder: /img/speakers/
+showSessions: true
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google Developer Group (GDG) Birgunj is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
-<br/><br/>
-Here are a few of the topics that we have covered so far:<br/>
-Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Google Apps, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
-<br/><br/>
-In addition to regular speaker focused meetings, we also organize code camps, Collaborative events and assist with the local Colleges and Business identies.
-<br/><br/>
-The group is free to attend and open to all who are interested in discussing and learning more about software development with Google Tools and Technologies.
-<br/><br/>
-If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Birgunj community linked from our About page on Google+.
-<br/><br/>
-
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -195,37 +205,45 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "27.014808, 84.878813"
-logisticsMapMobileCenterCoordinates: "27.014808, 84.878813"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around the Birgunj City"
+directionDetailsTitle: "Get around Lviv"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The Simra Airport is just a 30 minute drive (25 kilometer to the south) from Simra. Simara Airport (Nepali- सिमरा विमानस्थल) (IATA- SIF, ICAO- VNSI) is an airport serving Pipara Simara in Nepal.'}
- - {title: "Public Transit", information: 'Public transportation in Birgunj is ineffective and difficult to use, especially on weekends. Local Buses or Tampoos can be used. Though Rental cars from the airport are recommended.'}
- - {title: "Hotels", information: 'Birgunj has many good hotels.  See below for more details.'}
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
 directionDetailsWideCards: 
  -
-  title: "Details"
+  title: "Questions?"
   subCards:
    -
     title: "Hotels"
     links:
-     - {link: "http://www.ihg.com/crowneplaza/hotels/us/en/melbourne/mlboc/hoteldetail?cm_mmc=GoogleMaps-_-cp-_-USEN-_-mlboc", text: "Crowne Plaza Melbourne-Oceanfront"}
-     - {link: "http://www.doubletreemelbournebeach.com/", text: "DoubleTree Suites by Hilton Melbourne Beach Oceanfront"}
-     - {link: "http://www3.hilton.com/en/hotels/florida/hilton-melbourne-rialto-place-MLBMHHF/index.html", text: "Hilton Melbourne Rialto Place"}
-     - {link: "http://www.marriott.com/hotels/travel/mlbap-residence-inn-melbourne/", text: "Residence Inn Melbourne"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    - 
-    title: "Travel"
+    title: "Registration"
     links:
-     - {link: "http://www.mlbair.com/", text: "Melbourne International Airport"}
-     - {link: "http://www.orlandoairports.net/", text: "Orlando International Airport"}
-     - {link: "http://www.orlandosanfordairport.com/", text: "Orlando Sanford International Airport"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: false
+enableHackathon: true
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
