@@ -85,19 +85,19 @@ rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Florida Institute of Technology"
+eventLocationName: "Birgunj"
 eventLocationLink: "http://www.fit.edu/"
-eventStreetAddress: "150 W University Blvd"
-eventAddressLocality: "Melbourne"
-eventAddressLocalityRegion: "Florida"
-eventPostalCode: "32901"
-eventAddressCountry: "USA"
-eventStartTime: "2014-10-04T11:00"
-eventDoorTime: "10:30"
-eventEndTime: "2014-10-04T20:00"
-eventPlaceCoordinates: "28.064459,-80.622979"
-mapCenterCoordinates: "28.064459,-80.622979"
-mapMobileCenterCoordinates: "28.064459,-80.622979"
+eventStreetAddress: ".."
+eventAddressLocality: ".."
+eventAddressLocalityRegion: ".."
+eventPostalCode: "44300"
+eventAddressCountry: "Nepal"
+eventStartTime: "2014-11-22T09:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-11-22T18:00"
+eventPlaceCoordinates: "27.014799, 84.878801"
+mapCenterCoordinates: "27.014799, 84.878801"
+mapMobileCenterCoordinates: "27.014799, 84.878801"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -130,7 +130,7 @@ ticketsTitle: "Pricetable"
 ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
 ticketsOffers:
  -
-  name: "1 day"
+  name: "DevFest Birgunj"
   price: "TBA"
   ticketsNumber: "150"
   ribbon: "-100%"
@@ -164,7 +164,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
-discusShortName: "devfestspacecoast"
+discusShortName: "devfestbirgunj"
 
 # Speakers List Block
 showSessions: false
@@ -193,12 +193,12 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "28.064459,-80.622979"
-logisticsMapMobileCenterCoordinates: "28.064459,-80.622979"
+logisticsMapCenterCoordinates: "27.014799, 84.878801"
+logisticsMapMobileCenterCoordinates: "27.014799, 84.878801"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around the Space Coast"
+directionDetailsTitle: "Get around the Birgunj City"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The Melbourne International Airport is just a 10 minute drive (2.5 miles to the south) from Florida Tech. If you need to use the Orlando Airport, then the drive will be 1 hour.'}
  - {title: "Public Transit", information: 'Public transportation in Melbourne is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
