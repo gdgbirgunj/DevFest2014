@@ -5,37 +5,38 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest, Birgunj 2014"
-email: "dipesh009@gmail.com"
+title: "Android DevFest Season 2014"
+email: "organizer@gdgspacecoast.org"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdgbirgunj.github.io"
+url: "http://gdg-space-coast.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdgbirgunj.github.io"
+googleAnalyticsTrackingId: "UA-41029375-7"
+googleAnalyticsSiteUrl: "gdg-space-coast.github.io"
 
 # Organizer Info
-organizerName: "GDG Birgunj"
-organizerAlternateName: "Google Developer Group Birgunj"
+organizerName: "GDG Space Coast"
+organizerAlternateName: "Google Developer Group Space Coast"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "dipesh009@gmail.com"
+organizerEmail: "organizer@gdgspacecoast.org"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgbirgunj.blogspot.com/"
+organizerLink: "http://gdgspacecoast.org/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, Birgunj"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, developers, Space Coast"
+twitterAccount: "@gdgspacecoast"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form"
+c4sponsorsUrl: "https://docs.google.com/forms/d/1H3lMjgsrccU1PXCzLKvSzGU6eBmrdZJ8B976tJmYfCk/viewform?usp=send_form"
 
 
 # Navigation
-- {permalink: "/", text: "Home"}
+navigationLinks:
+ - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speakers"}
@@ -43,69 +44,68 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "November 22, 2014"
-typeoutTextValues: '"", "Season", "Birgunj", "Parsa", "Nepal"'
-typeoutFallback: "Birgunj"
+heroTitle: "Android DevFest <typeout> 2014"
+eventDate: "October 18th, 2014"
+typeoutTextValues: '"", "Melbourne", "Florida Tech"'
+typeoutFallback: "Space Coast"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
-aboutTitle: "About DevFest Birgunj 2014"
+aboutTitle: "About Android DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg",
     text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google Glass, and Android Studio." }
  - {title: "Design Sprint", image: "workshop.jpg",
     text: "The design sprint is a process for prototyping and testing any product. This process was just made public by Google Ventures and Google[x] in 2014." }
 
-
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "09", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "10", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "110", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
+ - {count: "3", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
+ - {count: "4", specialCharacter: "+", info: "hours", detail: "of collaboration, brainstorming, and innovation"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
 
-# Rockstar Speakers Block
+# Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersCount: 0
+rockstarSpeakersTitle: "Speakers TBA..."
+rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
-llocationBlockTitle: "Location"
-#eventLocationName: "TBA"
-#eventLocationLink: "http://gdgbirgunj.blogspot.com/"
-#eventStreetAddress: " "
-eventAddressLocality: "Birgunj"
-eventAddressLocalityRegion: "Birgunj"
-eventPostalCode: "44300, 44301"
-eventAddressCountry: "Nepal"
-eventStartTime: "2014-11-22T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-11-22T18:00"
-eventPlaceCoordinates: "27.014808, 84.878813"
-mapCenterCoordinates: "27.014808, 84.878813"
-mapMobileCenterCoordinates: "27.014808, 84.878813"
+locationBlockTitle: "Location"
+eventLocationName: "Florida Institute of Technology"
+eventLocationLink: "http://www.fit.edu/"
+eventStreetAddress: "150 W University Blvd"
+eventAddressLocality: "Melbourne"
+eventAddressLocalityRegion: "Florida"
+eventPostalCode: "32901"
+eventAddressCountry: "USA"
+eventStartTime: "2014-10-04T11:00"
+eventDoorTime: "10:30"
+eventEndTime: "2014-10-04T20:00"
+eventPlaceCoordinates: "28.064459,-80.622979"
+mapCenterCoordinates: "28.064459,-80.622979"
+mapMobileCenterCoordinates: "28.064459,-80.622979"
+
 # Venue Block
 venueBlockTitle: "Venue"
+venueTitle: "Olin Engineering Complex"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle: "TBA"
-#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -122,7 +122,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open in early September. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
@@ -131,47 +131,59 @@ ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the des
 ticketsOffers:
  -
   name: "1 day"
-  price: "TBA"
-  ticketsNumber: "150"
+  price: "Free!"
+  ticketsNumber: "110"
   ribbon: "-100%"
-  buyButtonLink: "http://gdgbirgunj.blogspot.com/"
+  buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
   buyButtonText: "RSVP Now"
-  ticketContentList: ["Registration will open by 1st of November", "Limit: 150 attendees."]
-  validFrom: "2014-11-01T00:00"
-  validThrough: "2014-11-17T18:00"
+  ticketContentList: ["Registration is open!", "Limit: 110 attendees."]
+  validFrom: "2014-09-20T14:00"
+  validThrough: "2014-10-17T19:00"
+
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/112807703637841959875", icon: "google-plus"}
- - {link: "https://twitter.com/gdgbirgunj", icon: "twitter"}
- - {link: "https://facebook.com/gdgbirgunj", icon: "facebook"}
+ - {link: "https://plus.google.com/+GDGSpaceCoastOrg", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgspacecoast", icon: "twitter"}
+ - {link: "https://www.facebook.com/gdgspacecoast", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgbirgunj.blogspot.com", text: "GDG Birgunj"}
+   - {link: "http://gdgspacecoast.org", text: "GDG Space Coast"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-    - {link: "mailto:dipesh009@gmail.com", text: "Dipesh Kumar"}
-    - {link: "mailto:dipesh009@gmail.com", text: "dipesh009@gmail.com"}
-    - {link: "mailto:dipesh009@gmail.com", text: "+977 9843410150"}
+   - {link: "mailto:organizer@gdgspacecoast.org", text: "organizer@gdgspacecoast.org"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+
 # Blog
 blogTitle: "Latest news"
-blogCommentsEnabled: true
-discusShortName: "devfestua"
+blogCommentsEnabled: false
+discusShortName: "devfestspacecoast"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
+thumbnailsFolder: /img/speakers/
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+aboutUs: "Google Developer Group (GDG) Space Coast is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
+<br/><br/>
+Here are a few of the topics that we have covered so far:<br/>
+Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Dart, AngularJS, Cloud Endpoints, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
+<br/><br/>
+In addition to regular speaker focused meetings, we also organize code camps, hackathons, and assist with the local TrepHub and Startup Weekend events.
+<br/><br/>
+The group is free to attend and open to all who are interested in discussing and learning more about software development with Google Tools and Technologies.
+<br/><br/>
+If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Space Coast community linked from our About page on Google+.
+<br/><br/>
+Disclaimer: GDG Space Coast is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -181,45 +193,37 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+logisticsMapCenterCoordinates: "28.064459,-80.622979"
+logisticsMapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
+directionDetailsTitle: "Get around the Space Coast"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "From the Airport", information: 'The Melbourne International Airport is just a 10 minute drive (2.5 miles to the south) from Florida Tech. If you need to use the Orlando Airport, then the drive will be 1 hour.'}
+ - {title: "Public Transit", information: 'Public transportation in Melbourne is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
+ - {title: "Hotels", information: 'Melbourne has many good hotels. There are beachfront hotels with a view or hotels close to the airport for your convenience. See below for more details.'}
 directionDetailsWideCards: 
  -
-  title: "Questions?"
+  title: "Details"
   subCards:
    -
     title: "Hotels"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.ihg.com/crowneplaza/hotels/us/en/melbourne/mlboc/hoteldetail?cm_mmc=GoogleMaps-_-cp-_-USEN-_-mlboc", text: "Crowne Plaza Melbourne-Oceanfront"}
+     - {link: "http://www.doubletreemelbournebeach.com/", text: "DoubleTree Suites by Hilton Melbourne Beach Oceanfront"}
+     - {link: "http://www3.hilton.com/en/hotels/florida/hilton-melbourne-rialto-place-MLBMHHF/index.html", text: "Hilton Melbourne Rialto Place"}
+     - {link: "http://www.marriott.com/hotels/travel/mlbap-residence-inn-melbourne/", text: "Residence Inn Melbourne"}
    - 
-    title: "Registration"
+    title: "Travel"
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+     - {link: "http://www.mlbair.com/", text: "Melbourne International Airport"}
+     - {link: "http://www.orlandoairports.net/", text: "Orlando International Airport"}
+     - {link: "http://www.orlandosanfordairport.com/", text: "Orlando Sanford International Airport"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
-enableHackathon: true
+enableHackathon: false
 
 # Hackathon About Block
 aboutHackathonTitle: "Meet our themes"
