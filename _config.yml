@@ -210,16 +210,16 @@ directionDetailsWideCards:
    -
     title: "Hotels"
     links:
-     - {link: "http://www.ihg.com/crowneplaza/hotels/us/en/melbourne/mlboc/hoteldetail?cm_mmc=GoogleMaps-_-cp-_-USEN-_-mlboc", text: "Crowne Plaza Melbourne-Oceanfront"}
-     - {link: "http://www.doubletreemelbournebeach.com/", text: "DoubleTree Suites by Hilton Melbourne Beach Oceanfront"}
-     - {link: "http://www3.hilton.com/en/hotels/florida/hilton-melbourne-rialto-place-MLBMHHF/index.html", text: "Hilton Melbourne Rialto Place"}
-     - {link: "http://www.marriott.com/hotels/travel/mlbap-residence-inn-melbourne/", text: "Residence Inn Melbourne"}
+     - {link: "https://plus.google.com/112807703637841959875", text: "Hotal Vishuwa"}
+     - {link: "https://plus.google.com/112807703637841959875", text: "Hotel Pujan"}
+     - {link: "https://plus.google.com/112807703637841959875", text: "Makalu"}
+     - {link: "https://plus.google.com/112807703637841959875", text: "Hotel Suraj"}
    - 
-    title: "Travel"
+    title: "Travel and Site Seeing"
     links:
-     - {link: "http://www.mlbair.com/", text: "Melbourne International Airport"}
-     - {link: "http://www.orlandoairports.net/", text: "Orlando International Airport"}
-     - {link: "http://www.orlandosanfordairport.com/", text: "Orlando Sanford International Airport"}
+     - {link: "http://www.forestrynepal.org/resources/pas/parsa-wildlife-reserve", text: "Parsa WildLife Reserve"}
+     - {link: "http://www.htpldryport.com/", text: "Dry Port"}
+     - {link: "https://www.google.com.np/maps/search/Ghadiyarwa+Pokhari/@27,84.866667,7z/data=!4m5!2m4!3m3!1sGhadiyarwa+Pokhari!2sBirgunj!3s0x39935446b21c98cb:0x42938e30ff4f6cb5", text: "Ghadiyarwa Pokhari"}
 
 # Hackathon
 hackathonTitle: "Hackathon"
