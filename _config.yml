@@ -43,15 +43,15 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "November 22, 2014"
-typeoutTextValues: '"", "Birgunj", "Nepal"'
+typeoutTextValues: '"Birgunj", "Nepal"'
 typeoutFallback: "Birgunj"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
