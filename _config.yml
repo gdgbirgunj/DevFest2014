@@ -31,8 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit"
-c4sponsorsUrl: "https://docs.google.com/forms/d/1H3lMjgsrccU1PXCzLKvSzGU6eBmrdZJ8B976tJmYfCk/viewform?usp=send_form"
-
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
