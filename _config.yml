@@ -203,7 +203,7 @@ directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around the Birgunj City"
 directionDetailsCards:
  - {title: "From the Airport", information: 'The Simra Airport is just a 30 minute drive (25 kilometer to the south) from Simra. Simara Airport (Nepali- सिमरा विमानस्थल) (IATA- SIF, ICAO- VNSI) is an airport serving Pipara Simara in Nepal.'}
- - {title: "Public Transit", information: 'Public transportation in Birgunj is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
+ - {title: "Public Transit", information: 'Public transportation in Birgunj is ineffective and difficult to use, especially on weekends. Local Buses or Tampoos can be used. Though Rental cars from the airport are recommended.'}
  - {title: "Hotels", information: 'Birgunj has many good hotels.  See below for more details.'}
 directionDetailsWideCards: 
  -
