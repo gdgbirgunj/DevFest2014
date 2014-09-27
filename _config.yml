@@ -121,8 +121,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
-subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open in early September. Number of tickets are limited. Stay tuned!"
+subscribeAction: "http://blogspot.us9.list-manage1.com/subscribe?u=2aa7f76f46d9294e3dd42f1cb&id=e7dde3b5e8"
+subscribeInfo: "Registration will be open in early November. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
@@ -200,9 +200,9 @@ logisticsMapMobileCenterCoordinates: "27.014799, 84.878801"
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle: "Get around the Birgunj City"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The Melbourne International Airport is just a 10 minute drive (2.5 miles to the south) from Florida Tech. If you need to use the Orlando Airport, then the drive will be 1 hour.'}
- - {title: "Public Transit", information: 'Public transportation in Melbourne is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
- - {title: "Hotels", information: 'Melbourne has many good hotels. There are beachfront hotels with a view or hotels close to the airport for your convenience. See below for more details.'}
+ - {title: "From the Airport", information: 'The Simara Airport is just a 25 minute drive (20 Kilo Meters to the North) from Birgunj.'}
+ - {title: "Public Transit", information: 'Public transportation in Birgunj is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
+ - {title: "Hotels", information: 'Birgunj has many good hotels.  See below for more details.'}
 directionDetailsWideCards: 
  -
   title: "Details"
