@@ -54,7 +54,7 @@ eventDate: "November 22, 2014"
 typeoutTextValues: '"Birgunj", "Nepal"'
 typeoutFallback: "Birgunj"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
