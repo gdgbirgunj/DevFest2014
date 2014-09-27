@@ -85,13 +85,13 @@ rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "TBA"
+eventLocationName: "Birgunj"
 #eventLocationLink: "http://www.fit.edu/"
 #eventStreetAddress: "150 W University Blvd"
 #eventAddressLocality: "Melbourne"
 #eventAddressLocalityRegion: "Florida"
 #eventPostalCode: "32901"
-#eventAddressCountry: "USA"
+eventAddressCountry: "Nepal"
 eventStartTime: "2014-11-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-22T18:00"
@@ -131,14 +131,14 @@ ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the des
 ticketsOffers:
  -
   name: "1 day"
-  price: "Free!"
+  price: "Registration will open after 31st of October!"
   ticketsNumber: "150"
   ribbon: "-100%"
-  buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
-  buyButtonText: "RSVP Now"
+  buyButtonLink: "http://gdgbirgunj.blogspot.com/"
+  buyButtonText: "More Details"
   ticketContentList: ["Registration is open!", "Limit: 150 attendees."]
-  validFrom: "2014-09-20T14:00"
-  validThrough: "2014-10-17T19:00"
+  validFrom: "2014-10-31T23:00"
+  validThrough: "2014-10-16T00:00"
 
 # Footer
 socialLinks:
@@ -155,7 +155,9 @@ footerBlocks:
  -
   title: "Contacts"
   links:
+   - {link: "https://google.com/+DipeshKumar", text: "Dipesh Kumar"}
    - {link: "mailto:dipesh009@gmail.com", text: "dipesh009@gmail.com"}
+
  -
   title: "FAQ"
   links:
@@ -172,18 +174,18 @@ thumbnailsFolder: /img/speakers/
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google Developer Group (GDG) Space Coast is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
+aboutUs: "Google Developer Group (GDG) Birgunj is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
 <br/><br/>
 Here are a few of the topics that we have covered so far:<br/>
-Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Dart, AngularJS, Cloud Endpoints, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
+Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Google Apps, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
 <br/><br/>
-In addition to regular speaker focused meetings, we also organize code camps, hackathons, and assist with the local TrepHub and Startup Weekend events.
+In addition to regular speaker focused meetings, we also organize code camps, Collaborative events and assist with the local Colleges and Business identies.
 <br/><br/>
 The group is free to attend and open to all who are interested in discussing and learning more about software development with Google Tools and Technologies.
 <br/><br/>
-If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Space Coast community linked from our About page on Google+.
+If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Birgunj community linked from our About page on Google+.
 <br/><br/>
-Disclaimer: GDG Space Coast is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation."
+
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
@@ -193,16 +195,16 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "28.064459,-80.622979"
-logisticsMapMobileCenterCoordinates: "28.064459,-80.622979"
+logisticsMapCenterCoordinates: "27.014808, 84.878813"
+logisticsMapMobileCenterCoordinates: "27.014808, 84.878813"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around the Space Coast"
+directionDetailsTitle: "Get around the Birgunj City"
 directionDetailsCards:
- - {title: "From the Airport", information: 'The Melbourne International Airport is just a 10 minute drive (2.5 miles to the south) from Florida Tech. If you need to use the Orlando Airport, then the drive will be 1 hour.'}
- - {title: "Public Transit", information: 'Public transportation in Melbourne is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
- - {title: "Hotels", information: 'Melbourne has many good hotels. There are beachfront hotels with a view or hotels close to the airport for your convenience. See below for more details.'}
+ - {title: "From the Airport", information: 'The Simra Airport is just a 30 minute drive (25 kilometer to the south) from Simra. Simara Airport (Nepali: सिमरा विमानस्थल) (IATA: SIF, ICAO: VNSI) is an airport serving Pipara Simara in Nepal.'}
+ - {title: "Public Transit", information: 'Public transportation in Birgunj is ineffective and difficult to use, especially on weekends. Rental cars from the airport are recommended.'}
+ - {title: "Hotels", information: 'Birgunj has many good hotels.  See below for more details.'}
 directionDetailsWideCards: 
  -
   title: "Details"
