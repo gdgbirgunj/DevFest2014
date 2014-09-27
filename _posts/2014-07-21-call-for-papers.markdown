@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers"
-date:   2014-08-27 09:00:00
+date:   2014-09-27 09:00:00
 isStaticPost: false
 ---
 GDG DevFest Birgunj 2014 will be held 22nd of November in business city of Nepal: Birgunj. If you want to be part of this great event as a speaker you knocked at the good door.

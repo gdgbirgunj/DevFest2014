@@ -5,7 +5,7 @@
 - 
   group: "With support of"
   elements:
-    - {name: "Florida Tech", description: "Florida Tech", link: "http://www.fit.edu/", imageUrl: "fit.jpg"}
+    - {name: "GDG X", description: "GDG X", link: "http://google.org/", imageUrl: "gdg-x.svg"}
 - 
   group: "Information partners"
   elements: 
