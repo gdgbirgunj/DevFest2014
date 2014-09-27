@@ -1,37 +1,60 @@
 - 
   id: 0
-  name: "Michael"
-  surname: "Prentice"
-  title: "Lead Organizer and Web Developer"
-  thumbnailUrl: MichaelPrenticeProfile.jpg
+  name: "Dipesh"
+  surname: "Kumar"
+  title: "Manager"
+  thumbnailUrl: DipeshKumar.JPG
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://www.google.com/+MichaelPrentice"}
-    - {name: "twitter", link: "https://twitter.com/Splaktar"}
-    - {name: "github", link: "https://github.com/Splaktar"}
-    - {name: "site", link: "http://DevIntent.com/"}
+    - {name: "google-plus", link: "https://google.com/+DipeshKumar"}
+    - {name: "twitter", link: "https://twitter.com/aaryadip"}
+    - {name: "github", link: "https://github.com/aaryadip"}
+    - {name: "site", link: "http://about.me/dipeshkumar"}
 - 
   id: 1
-  name: "Josh"
-  surname: "Lear"
-  title: "Site Operations Organizer"
-  thumbnailUrl: JoshLear.jpg
+  name: "Aman"
+  surname: "Routh"
+  title: "Organizer"
+  thumbnailUrl: GoogleDevelopers.jpg
   team: true
   ribbon: 
-    - {abbr: "ACM", title: "Association for Computing Machinery"}
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/110659244425124729072/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/jek584"}
+    - {name: "google-plus", link: "https://plus.google.com/+AmanKumar097"}
+    
 - 
   id: 2
-  name: "Jacob"
-  surname: "Bowers"
-  title: "Treasurer"
-  thumbnailUrl: JacobBowers.jpg
+  name: "Neha"
+  surname: "Gupta"
+  title: "Organizer"
+  thumbnailUrl: GoogleDevelopers.jpg
   team: true
   ribbon: 
-    - {abbr: "ACM", title: "Association for Computing Machinery"}
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "facebook", link: "https://www.facebook.com/jacob.bowers.142"}
+    - {name: "google-plus", link: "https://plus.google.com/115402432655045568046"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+- 
+  id: 3
+  name: "Arati"
+  surname: "Singh"
+  title: "Organizer"
+  thumbnailUrl: GoogleDevelopers.jpg
+  team: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111297464752464491993"}
+    
+#- 
+  #id: 7
+  #name: "TBD"
+  #surname: " "
+  title: " "
+  #thumbnailUrl: GoogleDevelopers.jpg
+  #subTeam: true
+  #social: 
+    #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
+    #- {name: "github", link: "https://github.com/dmytrodanylyk"}

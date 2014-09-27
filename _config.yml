@@ -95,17 +95,17 @@ eventLocationName: "TBA"
 eventStartTime: "2014-11-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-22T18:00"
-eventPlaceCoordinates: "28.064459,-80.622979"
-mapCenterCoordinates: "28.064459,-80.622979"
-mapMobileCenterCoordinates: "28.064459,-80.622979"
+eventPlaceCoordinates: "27.014808, 84.878813"
+mapCenterCoordinates: "27.014808, 84.878813"
+mapMobileCenterCoordinates: "27.014808, 84.878813"
 
 # Venue Block
 venueBlockTitle: "Venue"
-#venueTitle: "Olin Engineering Complex"
+venueTitle: "TBA"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
+#venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -122,7 +122,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Subscribe for updates"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open in early September. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Registration will be open in early November. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
@@ -132,29 +132,30 @@ ticketsOffers:
  -
   name: "1 day"
   price: "Free!"
-  ticketsNumber: "110"
+  ticketsNumber: "150"
   ribbon: "-100%"
   buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
   buyButtonText: "RSVP Now"
-  ticketContentList: ["Registration is open!", "Limit: 110 attendees."]
+  ticketContentList: ["Registration is open!", "Limit: 150 attendees."]
   validFrom: "2014-09-20T14:00"
   validThrough: "2014-10-17T19:00"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://facebook.com/GDGSpace Coast", icon: "facebook"}
+ - {link: "https://plus.google.com/112807703637841959875", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgbirgunj", icon: "twitter"}
+ - {link: "https://facebook.com/gdgbirgunj", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgspacecoast.org", text: "GDG Space Coast"}
+   - {link: "http://gdgbirgunj.blogspot.com", text: "GDG Birgunj"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:organizer@gdgspacecoast.org", text: "organizer@gdgspacecoast.org"}
+   - {link: "mailto:dipesh009@gmail.com", text: "dipesh009@gmail.com"}
  -
   title: "FAQ"
   links:

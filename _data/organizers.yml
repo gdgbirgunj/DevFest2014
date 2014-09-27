@@ -1,9 +1,4 @@
 - 
   group: "Main organizers"
   elements:
-    - {name: "Florida Tech ACM", description: "Florida Tech ACM", link: "http://acm.cs.fit.edu", imageUrl: "acm_logo.jpg", width: "80px"}
-    - {name: "GDG Space Coast", description: "GDG Space Coast", link: "http://www.gdgspacecoast.org", imageUrl: "gdg-space-coast.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Central Florida", description: "GDG Central Florida", link: "https://plus.google.com/u/0/103230977474494232033/about", imageUrl: "gdg-central-florida.svg"}
+    - {name: "GDG Birgunj", description: "GDG Birgunj - Open and volunteer geek community", link: "https://developers.google.com/groups/chapter/112807703637841959875/", imageUrl: "GDGBirgunj.svg"}
