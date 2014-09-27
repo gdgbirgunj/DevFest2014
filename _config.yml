@@ -5,26 +5,26 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Android DevFest Season 2014"
-email: "organizer@gdgspacecoast.org"
+title: "GDG DevFest Birgunj 2014"
+email: "dipesh009@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
-url: "http://gdg-space-coast.github.io"
+url: "http://gdgbirgunj.github.io"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-41029375-7"
-googleAnalyticsSiteUrl: "gdg-space-coast.github.io"
+
+googleAnalyticsSiteUrl: "gdgirgunj.github.io"
 
 # Organizer Info
-organizerName: "GDG Space Coast"
+organizerName: "GDG Birgunj"
 organizerAlternateName: "Google Developer Group Space Coast"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "organizer@gdgspacecoast.org"
+organizerEmail: "dipesh009@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://gdgspacecoast.org/"
+organizerLink: "http://gdgbirgunj.blogspot.com/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, developers, Space Coast"
-twitterAccount: "@gdgspacecoast"
+metaKeywords: "event, gdg, devfest, google, programming, android, developers, Birgunj"
+twitterAccount: "@gdgbirgunj"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
