@@ -50,16 +50,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Android DevFest <typeout> 2014"
-eventDate: "October 18th, 2014"
-typeoutTextValues: '"", "Melbourne", "Florida Tech"'
-typeoutFallback: "Space Coast"
+heroTitle: "GDG Birgunj DevFest <typeout> 2014"
+eventDate: "November 22, 2014"
+typeoutTextValues: '"", "Birgunj", "Nepal"'
+typeoutFallback: "Birgunj"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/1GWy11zS3c6Er9yxxmR62ygXL9jtgCnXngVZGWZWbxx8/viewform?usp=send_form", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
-aboutTitle: "About Android DevFest"
+aboutTitle: "About GDG Birgunj DevFest"
 aboutBlock:
  - {title: "Tech Talks", image: "conference.jpg",
     text: "Come hear the latest updates on Android L, Android TV, Android Wear, Google Glass, and Android Studio." }
@@ -69,10 +69,10 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "110", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "Developers, Designers, and Business"}
  - {count: "3", specialCharacter: "", info: "hours", detail: "of Android Demos and presentations"}
  - {count: "4", specialCharacter: "+", info: "hours", detail: "of collaboration, brainstorming, and innovation"}
- - {count: "3", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
+ - {count: "4", specialCharacter: "+", info: "speakers", detail: "experienced in Google technologies"}
 
 # Latest News Block
 latestNewsTitle: "Latest news"
@@ -100,8 +100,8 @@ mapCenterCoordinates: "28.064459,-80.622979"
 mapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Venue Block
-venueBlockTitle: "TBA"
-venueTitle: "--"
+venueBlockTitle: "Venue"
+venueTitle: "TBA"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -131,14 +131,14 @@ ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the des
 ticketsOffers:
  -
   name: "1 day"
-  price: "Free!"
-  ticketsNumber: "110"
+  price: "TBA"
+  ticketsNumber: "150"
   ribbon: "-100%"
-  buyButtonLink: "http://www.meetup.com/GDGSpaceCoast/events/208445302/"
+  buyButtonLink: "http://gdgbirgunj.blogspot.com/"
   buyButtonText: "RSVP Now"
-  ticketContentList: ["Registration is open!", "Limit: 110 attendees."]
-  validFrom: "2014-09-20T14:00"
-  validThrough: "2014-10-17T19:00"
+  ticketContentList: ["Registration is open!", "Limit: 150 attendees."]
+  validFrom: "2014-11-01T00:00"
+  validThrough: "2014-11-17T19:00"
 
 # Footer
 socialLinks:
@@ -171,16 +171,16 @@ thumbnailsFolder: /img/speakers/
 
 # Team Block
 teamBlockTitle: "About us"
-aboutUs: "Google Developer Group (GDG) Space Coast is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
+aboutUs: "Google Developer Group (GDG) Birgunj is a technology user group that meets to discuss the latest Google Technologies, Tools, SDKs, and APIs. The focus is on learning about the broad spectrum of technologies provided by Google and finding ways that these technologies can be applied. This includes discussions of the technologies from a number of angles (start ups, corporations, and individuals).
 <br/><br/>
 Here are a few of the topics that we have covered so far:<br/>
 Android, Chrome, Chrome OS / Chromium, Google App Engine, Google Play Games Services, GWT, Google Maps for Android, Android Design Guidelines, Dart, AngularJS, Cloud Endpoints, Chrome Packaged Apps, Polymer, Web Components, Ingress, Android Studio, and more.
 <br/><br/>
-In addition to regular speaker focused meetings, we also organize code camps, hackathons, and assist with the local TrepHub and Startup Weekend events.
+In addition to regular speaker focused meetings, we also organize code camps, hackathons, and assist with the local institutions and Business Organization.
 <br/><br/>
 The group is free to attend and open to all who are interested in discussing and learning more about software development with Google Tools and Technologies.
 <br/><br/>
-If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Space Coast community linked from our About page on Google+.
+If you would like to stay up to date with events and activities of the group, please follow us on Google+. If you would like to take part in discussions about the group, future events, and future content, please join the GDG Birgunj community linked from our About page on Google+.
 <br/><br/>
 Disclaimer: GDG Space Coast is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation."
 
