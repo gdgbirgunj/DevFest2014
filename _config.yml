@@ -100,12 +100,12 @@ mapCenterCoordinates: "28.064459,-80.622979"
 mapMobileCenterCoordinates: "28.064459,-80.622979"
 
 # Venue Block
-venueBlockTitle: "Venue"
-venueTitle: "Olin Engineering Complex"
+venueBlockTitle: "TBA"
+venueTitle: "--"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
+#venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -142,25 +142,24 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GDGSpaceCoastOrg", icon: "google-plus"}
- - {link: "https://twitter.com/gdgspacecoast", icon: "twitter"}
- - {link: "https://www.facebook.com/gdgspacecoast", icon: "facebook"}
+ - {link: "https://plus.google.com/112807703637841959875", icon: "google-plus"}
+ - {link: "https://twitter.com/gdgbirgunj", icon: "twitter"}
+ - {link: "https://facebook.com/gdgbirgunj", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdgspacecoast.org", text: "GDG Space Coast"}
+   - {link: "http://gdgbirgunj.blogspot.com", text: "GDG Birgunj"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:organizer@gdgspacecoast.org", text: "organizer@gdgspacecoast.org"}
+   - {link: "dipesh009@gmail.com", text: "Contact Organizer"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
-
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: false
