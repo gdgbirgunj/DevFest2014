@@ -86,17 +86,17 @@ rockstarSpeakersButtonText: "Speaker Details"
 locationBlockTitle: "Location"
 eventLocationName: "Birgunj"
 eventLocationLink: "http://http://www.bicci.org.np/"
-eventStreetAddress: "Bicci Building, Hospital Road"
-eventAddressLocality: "Birta - 4"
+eventStreetAddress: "Bicci Building"
+eventAddressLocality: "Hospital Road, Birta 4"
 eventAddressLocalityRegion: "Birgunj"
 eventPostalCode: "44300"
 eventAddressCountry: "Nepal"
 eventStartTime: "2014-11-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-22T18:00"
-eventPlaceCoordinates: "27.014799, 84.878801"
-mapCenterCoordinates: "27.014799, 84.878801"
-mapMobileCenterCoordinates: "27.014799, 84.878801"
+eventPlaceCoordinates: "27.005500, 84.872568"
+mapCenterCoordinates: "27.005500, 84.872568"
+mapMobileCenterCoordinates: "27.005500, 84.872568"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -104,7 +104,7 @@ venueTitle: "Birgunj Chamber of Commerce & Industries"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-#venueFeatures: ["Larger & Spacious Stage", "Surround sound system", "Located directly in the city center"]
+venueFeatures: ["Larger & Spacious Hall", "Surround sound system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -190,8 +190,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "27.014799, 84.878801"
-logisticsMapMobileCenterCoordinates: "27.014799, 84.878801"
+logisticsMapCenterCoordinates: "27.005500, 84.872568"
+logisticsMapMobileCenterCoordinates: "27.005500, 84.872568"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
