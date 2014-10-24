@@ -16,7 +16,7 @@ googleAnalyticsSiteUrl: "gdgirgunj.github.io"
 
 # Organizer Info
 organizerName: "GDG Birgunj"
-organizerAlternateName: "Google Developer Group Space Coast"
+organizerAlternateName: "Google Developer Group Birgunj"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "dipesh009@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -85,10 +85,10 @@ rockstarSpeakersButtonText: "Speaker Details"
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Birgunj"
-eventLocationLink: "http://www.fit.edu/"
-eventStreetAddress: ".."
-eventAddressLocality: ".."
-eventAddressLocalityRegion: ".."
+eventLocationLink: "http://http://www.bicci.org.np/"
+eventStreetAddress: "Bicci Building, Hospital Road"
+eventAddressLocality: "Birta - 4"
+eventAddressLocalityRegion: "Birgunj"
 eventPostalCode: "44300"
 eventAddressCountry: "Nepal"
 eventStartTime: "2014-11-22T09:00"
@@ -100,11 +100,11 @@ mapMobileCenterCoordinates: "27.014799, 84.878801"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "TBA"
+venueTitle: "Birgunj Chamber of Commerce & Industries"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-#venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
+#venueFeatures: ["Larger & Spacious Stage", "Surround sound system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -126,7 +126,7 @@ subscribeInfo: "Registration will be open in early November. Number of tickets a
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
+ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint."
 ticketsOffers:
  -
   name: "DevFest Birgunj"
