@@ -1,13 +1,13 @@
 - 
-  group: "General sponsor"
+  group: "General Sponsor"
   elements: 
     - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "google.svg"}
 - 
-  group: "With support of"
+  group: "Venue Partner"
   elements:
-    - {name: "GDG X", description: "GDG X", link: "http://google.org/", imageUrl: "gdg-x.svg"}
+    - {name: "BICCI", description: "Birgunj Chamber of Commerce & Industries", link: "http://bicci.org.np/", imageUrl: "bicci.jpg"}
 - 
-  group: "Information partners"
+  group: "Information Partners"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg"}
     - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg"}
