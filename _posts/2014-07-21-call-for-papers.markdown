@@ -57,9 +57,7 @@ __General__
 #### Please submit your proposals [here](http://goo.gl/TJFDv6).
 __Deadline__ is November 7, 2014
 
-__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
-
-The program committee picks the most interesting talk proposals and informs the selected submitters until November 10, 2014.<br/>
+__Please note:__ The program committee will pick the most interesting talk proposals and will inform the selected submitters by November 10, 2014.<br/>
 
 #### Any questions? 
 Email organizers at [dipesh009@gmai;.com](mailto:dipesh009@gmail.com)
