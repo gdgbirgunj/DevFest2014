@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Birgunj 2014"
 email: "dipesh009@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest2014"
+baseurl: "/DevFest2014"
 url: "http://gdgbirgunj.github.io"
 permalink: "/blog/:title"
 
@@ -16,7 +16,7 @@ googleAnalyticsSiteUrl: "gdgirgunj.github.io"
 
 # Organizer Info
 organizerName: "GDG Birgunj"
-organizerAlternateName: "Google Developer Group Space Coast"
+organizerAlternateName: "Google Developer Group Birgunj"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "dipesh009@gmail.com"
 organizerLogo: "/img/seo/organizer-logo.png"
@@ -30,27 +30,22 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform"
+c4sponsorsUrl: "/DevFest2014/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-<<<<<<< HEAD
- #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
-=======
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speakers"}
->>>>>>> gh-pages
+#- {permalink: "/schedule/", text: "Schedule"}
+#- {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/edit", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -89,27 +84,27 @@ rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Birgunj"
-eventLocationLink: "http://www.fit.edu/"
-eventStreetAddress: ".."
-eventAddressLocality: ".."
-eventAddressLocalityRegion: ".."
+eventLocationName: "Birgunj, Nepal"
+eventLocationLink: "http://http://www.bicci.org.np/"
+eventStreetAddress: "Bicci Building"
+eventAddressLocality: "Hospital Road, Birta 4"
+eventAddressLocalityRegion: "Birgunj"
 eventPostalCode: "44300"
 eventAddressCountry: "Nepal"
 eventStartTime: "2014-11-22T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2014-11-22T18:00"
-eventPlaceCoordinates: "27.014799, 84.878801"
-mapCenterCoordinates: "27.014799, 84.878801"
-mapMobileCenterCoordinates: "27.014799, 84.878801"
+eventPlaceCoordinates: "27.005500, 84.872568"
+mapCenterCoordinates: "27.005500, 84.872568"
+mapMobileCenterCoordinates: "27.005500, 84.872568"
 
 # Venue Block
 venueBlockTitle: "Venue"
-venueTitle: "TBA"
+venueTitle: "Birgunj Chamber of Commerce & Industries"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
-#venueFeatures: ["Huge cinema screen", "Bose surround sound system", "Mobile device 'document' camera"]
+venueFeatures: ["Larger & Spacious Hall", "Surround sound system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
@@ -131,7 +126,7 @@ subscribeInfo: "Registration will be open in early November. Number of tickets a
 # Tickets Block
 ticketsInfoTitle: "Ticket Information"
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint. Advanced RSVP is required."
+ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the design sprint."
 ticketsOffers:
  -
   name: "DevFest Birgunj"
@@ -195,8 +190,8 @@ findWayWalking: "WALKING"
 findWayBicycling: "BICYCLING"
 findWayTransit: "TRANSIT"
 findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "27.014799, 84.878801"
-logisticsMapMobileCenterCoordinates: "27.014799, 84.878801"
+logisticsMapCenterCoordinates: "27.005500, 84.872568"
+logisticsMapMobileCenterCoordinates: "27.005500, 84.872568"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
