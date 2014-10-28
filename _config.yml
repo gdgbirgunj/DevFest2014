@@ -78,8 +78,8 @@ latestNewsTitle: "Latest news"
 
 # Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 0
-rockstarSpeakersTitle: "Speakers TBA..."
+rockstarSpeakersCount: 2
+rockstarSpeakersTitle: "Rockstar Speakers"
 rockstarSpeakersButtonText: "Speaker Details"
 
 # Location Block
