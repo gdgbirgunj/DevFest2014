@@ -17,7 +17,7 @@
   name: "Aman"
   surname: "Routh"
   title: "Organizer"
-  thumbnailUrl: AmanRouth.jpg
+  thumbnailUrl: GoogleDevelopers.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -35,7 +35,8 @@
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/115402432655045568046"}
-    
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 3
   name: "Arati"
@@ -56,6 +57,4 @@
   #social: 
     #- {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     #- {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    #- {name: "github", link: "https://github.com/dmytrodanylyk"}
- link: "https://twitter.com/dmytrodanylyk"}
     #- {name: "github", link: "https://github.com/dmytrodanylyk"}

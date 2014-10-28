@@ -22,21 +22,24 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 
 __Google I/O 2014__
 
-* Android Wear
-* Polymer
-* Android TV
+* Material Design
+* Migration to ART
+* New Android Camera API
+* New Job Scheduler
+* Storage Access Framework
+* Elevation & Clipping
 
 __General__
 
 * Android Apps Dev
-* Android Studio
-* Play Store and integration
-* Inbox by Gmail.
+* Loaders, Cursor Adapters
+* Play Store and integration.
 
 ##### Education
 
 * Udacity Courses by Google
 * Google Apps for Education
+* MapMaker
 
 ##### Business
 
@@ -51,17 +54,15 @@ __General__
 * Google Cloud Platform
   * Compute Engine
   * App Engine
+  * Storages (SQL, NoSQL, BigData)
   * APIs
+* Go (as a language for a Cloud Ready Apps)
 
 
-#### Please submit your proposals [here](http://goo.gl/TJFDv6).
-__Deadline__ is November 7, 2014
+#### Please submit your proposals [here](http://bit.ly/dfua-c4p).
+__Deadline__ is October 31, 2014
 
-__Please note:__ The program committee will pick the most interesting talk proposals and will inform the selected submitters by November 10, 2014.<br/>
-
-#### Any questions? 
-Email organizers at [dipesh009@gmai;.com](mailto:dipesh009@gmail.com)
-put onto the conference agenda!<br/>
+__Please note:__ There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
 The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
 
