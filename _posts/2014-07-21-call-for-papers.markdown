@@ -61,3 +61,9 @@ __Please note:__ The program committee will pick the most interesting talk propo
 
 #### Any questions? 
 Email organizers at [dipesh009@gmai;.com](mailto:dipesh009@gmail.com)
+put onto the conference agenda!<br/>
+
+The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2014.<br/>
+
+#### Any questions? 
+Email organizers at [dipesh009@gmai;.com](mailto:dipesh009@gmail.com)
