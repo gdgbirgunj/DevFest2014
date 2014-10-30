@@ -166,7 +166,7 @@ blogCommentsEnabled: false
 discusShortName: "devfestbirgunj"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"
