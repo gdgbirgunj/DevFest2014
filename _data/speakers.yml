@@ -18,7 +18,7 @@
   company: "Janaki Technology Pvt. Ltd."
   title: "CEO/Director"
   bio: "He carry forward the Vision of the Company and Develop the team for the same and motivate them to move on the same path. -Business Development"
-  thumbnailUrl: AmitAgrawal.jpg
+  thumbnailUrl: GoogleDevelopers.jpg
   rockstar: true
   ribbon: 
     - {abbr: "GBG Kathmandu", title: "Google Business Group Kathmandu", url: "https://google.com/+AmitAgrawal"}
@@ -26,17 +26,8 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AmitAgrawal"}
     #- {name: "twitter", link: "https://twitter.com/mherych"}
-- 
-  id: 6
-  name: "Binisha"
-  surname: "Shrestha"
-  company: "GDG Woman Nepal"
-  title: " "
-  bio: " "
-  thumbnailUrl: BinishaShrestha.jpg
-  rockstar: true
-   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/113167990315444169838/posts"}
+#- 
+  #id: 6
   
 #- 
   #id: 7
