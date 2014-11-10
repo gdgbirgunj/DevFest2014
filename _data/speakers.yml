@@ -38,6 +38,15 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/113167990315444169838/posts"}
   
-#- 
-  #id: 7
+- 
+  id: 8
+  name: "Keshav"
+  surname: "Maharjan"
+  company: "Worldlink Communications Pvt. Ltd."
+  title: "Senior System Developer & Analyst, present"
+  bio: 'Google Map Maker'
+  thumbnailUrl: KeshavMaharjan.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KeshavMaharjan/about"}
   
