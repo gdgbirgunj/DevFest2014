@@ -30,7 +30,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform"
+c4pUrl: " http://goo.gl/forms/99D3hWWF07"
 c4sponsorsUrl: "/DevFest2014/assets/GDG_DevFest_Partnership.pdf"
 
 # Navigation
@@ -43,9 +43,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics"}
  - {link: "https://developers.google.com", text: "Developers"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
+ - {link: " http://goo.gl/forms/99D3hWWF07", text: "Buy Ticket"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
+ - {link: " http://goo.gl/forms/99D3hWWF07", text: "Buy Ticket"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -54,7 +54,7 @@ eventDate: "November 22, 2014"
 typeoutTextValues: '"Birgunj", "Nepal"'
 typeoutFallback: "Birgunj"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/1AqI_PUYF1hPD6aYIw4R8pPDmHt0X08Oi6JFEIirsOG4/viewform", text: "Become a speaker"}
+ - {link: " http://goo.gl/forms/99D3hWWF07", text: "Buy Ticket"}
  - {permalink: "/#tickets", text: "Ticket Info"}
 
 # About Block
