@@ -130,14 +130,14 @@ ticketsInfo: "Tickets grant access to all tech talks, coffee brakes, and the des
 ticketsOffers:
  -
   name: "DevFest Birgunj"
-  price: "TBA"
+  price: "Rs.125"
   ticketsNumber: "150"
   ribbon: "-100%"
-  buyButtonLink: "http://gdgbirgunj.blogspot.com/"
-  buyButtonText: "Coming Soon!"
-  ticketContentList: ["Registration will open soon!", "Limit: 150 attendees."]
+  buyButtonLink: " http://goo.gl/forms/99D3hWWF07"
+  buyButtonText: "BUY NOW"
+  ticketContentList: ["Registration is Open Now!", "Limit: 150 attendees."]
   validFrom: "2014-11-01T00:00"
-  validThrough: "2014-11-17T19:00"
+  validThrough: "2014-11-20T19:00"
 
 # Footer
 socialLinks:
